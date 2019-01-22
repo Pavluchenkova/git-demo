@@ -3,3 +3,4 @@
 3 string
 4 on b1
 7 on master
+6 on b2
